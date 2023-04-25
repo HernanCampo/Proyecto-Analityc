@@ -1,4 +1,4 @@
-# <h1 align=center> **Proyecto-analitic individual Nº2** </h1>
+# <h1 align=center> **Proyecto-Analitico individual Nº2** </h1>
 
 # <h1 align=center>**`Data Analitics`**</h1>
 
