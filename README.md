@@ -34,3 +34,14 @@ Realizar un trabajo de ETL y EDA sobre los datasets, luego realizar un Dahsboard
 ## Librerias utilizadas:
 
 - pandas - matplotlib - seaborn 
+
+
+## Resumen del analisis:
+
+Se decidio tomar un enfoque sobre la tecnologia que se deberia invertir, se analizo los ingresos anuales de todas para ver el porogreso de cada una en el periodo 2014 -2022.
+Las tendencias de ingreso indicaban un aumento en internet y telefonia movil siendo los principales ingresos de una empresa de telecomunicacion. Se basa este aumento en los gustos de las nuevas generaciones donde un celular es mas comodo que una tele o un telefono fijo. Para confirmar estas tendencias se compararon donde se percibe la caida en llamadas TV envio de SMS etc. Los mismos prefieren conectarse via plataformas de mensajeria online o streaming. Por ultimo se analizo en el 2022 si se alcanzarion las metas por provincia de manterne o aumerntar un 2% los accesos por hogares. Con el mismo se percibio el aumento de infraestructura en Fibra Optica.
+Mi analisis llego a la conclusion de:
+- Mantener los clientes actuales y ofrecer a los nuevos clientes accesos a mayor velocidad de internet con acceso a plataformas de streaming. 
+- Minutos o SMS no sirven como campaña de inversion los jovenes no les interesa eso.
+- Invertir en la infrestructura de Fibra optica para las provincias con mejor acceso. Ya de por si el manteniemiento de la firba es mas facil que el coaxil o ADSL.
+- En las provincias con menos acceso enfocarse en la baja competencia que se puede tener ofrecer paquetes un poco mas rapidos a menores precios que las otras empresas obtendria nuevos clientes debido a la baja cantidad poblacional no recomiendo inversion en infraestructura si no mantener la actual.
