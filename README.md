@@ -88,7 +88,7 @@ Mi analisis llego a la conclusion de:
 - En las provincias con menos acceso enfocarse en la baja competencia que se puede tener ofrecer paquetes un poco mas rapidos a menores precios que las otras empresas obtendria nuevos clientes.
   No se recomienda inversion en infraestructura en estas zonas.
 
-Para esto se planteron 3 KPIS con objetivos:
+### Para esto se planteron 3 KPIS con objetivos:
 
 - Aumento de la infraestructura de un 10% de Fibra Optica, en las provincias que tenemos acceso nos va a ayudar a mantener clientes y poder ofrecerle a nuevos.
 
