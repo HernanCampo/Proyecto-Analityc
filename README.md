@@ -1,6 +1,6 @@
 # <h1 align=center> **Proyecto-Analitico individual Nº2** </h1>
 
-# <h1 align=center>**`Data Analitics`**</h1>
+# <h1 align=center>**`Data Analytics`**</h1>
 
 ## Introducción:
 
